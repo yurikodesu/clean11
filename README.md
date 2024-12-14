@@ -28,16 +28,22 @@ My custom autounattend file with tweaks for Windows 11 for a more pleasant exper
 - Disables Edge's first run experience. (Might show "This browser is managed by your organization" but it's pretty harmless and should be ignored.)
 - Disables "Enhance Pointer Precision" mouse setting.
 
+## Removed Windows 11 apps:
+- 
 # Windows Defender:
 - Use autounattend-no-defender.xml if you also want Defender gone after a fresh Windows install.
 - Otherwise stick to the regular autounattend if you want to continue using Windows Defender.
+
+# How do I use it?:
+- Couldn't find anything better than [memstechtips's guide on the same.](https://github.com/memstechtips/UnattendedWinstall?tab=readme-ov-file#old-methods)
 
 # What is autounattend-hyprt.xml?
 - It's same as the regular autounattend with the only difference being that it sets the computer name to "devs11" after a fresh install. It is really only for my personal use.
 
 # Who is this intended for?
 - It's intended for intermediate-advanced users and it enables quite for risky stuff like automatically enabling PowerShell scripts, etc.
-- It's intended for people who know what they are doing and are aware of the modifications this autounattend script can do.
+- It's intended for ![brave_Llgc3QIQFR](https://github.com/user-attachments/assets/2c70a23e-b21e-4f10-9381-0a4650eeb8c1)
+people who know what they are doing and are aware of the modifications this autounattend script can do.
 - It's intended for people who are willing to go out of their comfort zone to make an overall more pleasant Windows experience for them.<br>
 
 **IT IS NOT A HEAVY MODIFICATION TO WINDOWS! It's exactly identical to a fresh Windows 11 install. Comparing it to AtlasOS, ReviOS, Ghost Spectre or memstechtips' UnattendedWinstall doesn't do it justice. It's a bunch of small modifications and registry tweaks to Windows. Each and every thing can be restored to default after the installation and it does not break anything at all.** <br><br>
@@ -45,4 +51,6 @@ My custom autounattend file with tweaks for Windows 11 for a more pleasant exper
 **Use at your own risk. I am not responsible for any damage caused.** <br>
 **I will look out for updates and changes to Windows and try to update it, if it causes anything to break, please make an issue about it.** <br><br>
 
-**I was able to achieve this using [schneegans.de's autounattend.xml generator](https://schneegans.de/windows/unattend-generator/). I just saved some of your time by making a template or a generic config for you to use by compiling settings and configs that most would have done anyway. However if you want to change anything, feel free to import it on the website and make your modifications.**
+**I was able to achieve this using [schneegans.de's autounattend.xml generator](https://schneegans.de/windows/unattend-generator/). I just saved some of your time by making a template or a generic config for you to use by compiling settings and configs that most would have done anyway. However if you want to change anything, feel free to import it on the website and make your modifications.** <br><br>
+
+This project was greatly inspired by memstechtips' UnattendedWinstall script. I would highly recommend you check it out too [UnattendedWinstall](https://github.com/memstechtips/UnattendedWinstall). It has more heavier modications to Windows and a lot of changes to it. If you want something with only a small amount of changes on a stock Windows 11 install, I would still recommend you use my xml since it's his script is for advanced users.
