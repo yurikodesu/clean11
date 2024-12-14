@@ -45,4 +45,4 @@ My custom autounattend file with tweaks for Windows 11 for a more pleasant exper
 **Use at your own risk. I am not responsible for any damage caused.** <br>
 **I will look out for updates and changes to Windows and try to update it, if it causes anything to break, please make an issue about it.** <br><br>
 
-**I was able to achieve this using [schneegans.de's autounttend.xml generator](https://schneegans.de/windows/unattend-generator/). I just saved some of your time by making a template or a generic config for you to use by compiling settings and configs that most would have done anyway. However if you want to change anything, feel free to import it on the website and make your modifications.**
+**I was able to achieve this using [schneegans.de's autounattend.xml generator](https://schneegans.de/windows/unattend-generator/). I just saved some of your time by making a template or a generic config for you to use by compiling settings and configs that most would have done anyway. However if you want to change anything, feel free to import it on the website and make your modifications.**
