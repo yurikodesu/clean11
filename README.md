@@ -45,7 +45,7 @@ My custom autounattend file with tweaks for Windows 11 for a more pleasant exper
 # Who is this intended for?
 - It's intended for intermediate-advanced users and it enables quite for risky stuff like automatically enabling PowerShell scripts, etc.
 - It's intended for people who know what they are doing and are aware of the modifications this autounattend script can do.
-- It's intended for people who are willing to go out of their comfort zone to make an overall more pleasant Windows experience for them.<br>
+- It's intended for people who are willing to go out of their comfort zone to make an overall more pleasant Windows experience for them.<br><br>
 
 **IT IS NOT A HEAVY MODIFICATION TO WINDOWS! It's exactly identical to a fresh Windows 11 install. Comparing it to AtlasOS, ReviOS, Ghost Spectre or memstechtips' UnattendedWinstall doesn't do it justice. It's a bunch of small modifications and registry tweaks to Windows. Each and every thing can be restored to default after the installation and it does not break anything at all.** <br><br>
 
