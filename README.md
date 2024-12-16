@@ -30,7 +30,7 @@ My custom autounattend file with tweaks for Windows 11 for a more pleasant exper
 
 ## Removed Windows 11 apps:
 - All the apps with a ✅ are removed.
-![brave_Llgc3QIQFR](https://github.com/user-attachments/assets/2c70a23e-b21e-4f10-9381-0a4650eeb8c1)
+![brave_fAOtOMPy2v](https://github.com/user-attachments/assets/7cd59440-f3db-413c-9017-38970c15853d)
 
 # Windows Defender:
 - Use autounattend-no-defender.xml if you also want Defender gone after a fresh Windows install.
