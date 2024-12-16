@@ -1,5 +1,5 @@
 # hyprt-autounattend
-My custom autounattend file with tweaks for Windows 11 for a more pleasant experience overall.
+My custom autounattend file with tweaks for Windows 11 for a more pleasant experience overall. 🚀
 
 # What tweaks?
 ## OOBE and Windows installer tweaks:
@@ -35,6 +35,7 @@ My custom autounattend file with tweaks for Windows 11 for a more pleasant exper
 # Windows Defender:
 - Use autounattend-no-defender.xml if you also want Defender gone after a fresh Windows install.
 - Otherwise stick to the regular autounattend if you want to continue using Windows Defender.
+- Also disables UAC, Smart App Control, and SmartScreen in Edge and Windows.
 
 # How do I use it?:
 - Couldn't find anything better than [memstechtips's guide on the same.](https://github.com/memstechtips/UnattendedWinstall?tab=readme-ov-file#old-methods)
