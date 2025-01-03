@@ -1,4 +1,4 @@
-# hyprt-autounattend
+# cleanerwin11
 My custom autounattend file with tweaks for Windows 11 for a more pleasant experience overall. 🚀
 
 # What tweaks?
@@ -39,9 +39,6 @@ My custom autounattend file with tweaks for Windows 11 for a more pleasant exper
 
 # How do I use it?:
 - Couldn't find anything better than [memstechtips's guide on the same.](https://github.com/memstechtips/UnattendedWinstall?tab=readme-ov-file#old-methods)
-
-# What is autounattend-hyprt.xml?
-- It's same as the regular autounattend with the only difference being that it sets the computer name to "devs11" after a fresh install. It is really only for my personal use.
 
 # Who is this intended for?
 - It's intended for intermediate-advanced users and it enables quite for risky stuff like automatically enabling PowerShell scripts, etc.
