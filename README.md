@@ -1,4 +1,4 @@
-# Might be on hiatus because I'm currently using AtlasOS lol
+# Might be on hiatus because I'm currently using AtlasOS
 # cleanerwin11
 My custom autounattend file with tweaks for Windows 11 for a more pleasant experience overall. 🚀
 
