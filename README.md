@@ -11,12 +11,12 @@ My custom autounattend file with tweaks for Windows 11 for a more pleasant exper
 - Prevents automatic device encryption on a fresh install.
 - Disables all express settings by default in OOBE.
 - Removes all Windows 11 tiles by default after a fresh install.
+- Disables app suggestions / Content Delivery Manager
 - Language set to English (India).
 - Interactively set PC name after install.
 
 ## Windows 11 tweaks:
 - Removes preset icons from the taskbar. (MS Edge, MS Store, Explorer, etc.)
-- Enables dark mode by default.
 - Icon only search in taskbar by default. (Can be changed of course, it just looks cleaner to me that way.)
 - Always show file extensions in Explorer.
 - Disables widgets entirely.
