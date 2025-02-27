@@ -12,6 +12,7 @@ My custom autounattend file with tweaks for Windows 11 for a more pleasant exper
 - Disables all express settings by default in OOBE.
 - Removes all Windows 11 tiles by default after a fresh install.
 - Language set to English (India).
+- Interactively set PC name after install.
 
 ## Windows 11 tweaks:
 - Removes preset icons from the taskbar. (MS Edge, MS Store, Explorer, etc.)
