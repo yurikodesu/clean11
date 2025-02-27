@@ -32,7 +32,8 @@ My custom autounattend file with tweaks for Windows 11 for a more pleasant exper
 - Disables "Enhance Pointer Precision" mouse setting.
 
 ## Removed Windows 11 apps:
-- Will update soon.
+- ![brave_YKqVe99CVJ](https://github.com/user-attachments/assets/741f34c3-e07d-4aa9-97c5-57bc735516bc)
+
 
 # Windows Defender:
 - Gone. Modify it on your own if you want to remove Defender.
